@@ -1,0 +1,9 @@
+{
+  "name": "FermenterTimer",
+  "version_number": "@VERSION@",
+  "website_url": "https://github.com/Shuiei/FermenterTimer",
+  "description": "Shows how long until a fermenter is ready when you look at it. Client-side only: works on any server.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
