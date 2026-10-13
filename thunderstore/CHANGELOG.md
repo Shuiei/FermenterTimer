@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2
+
+- Mod page only: a Buy Me a Coffee button. No change to the mod.
+
 ## 1.1.1
 
 - Changelog only: no change to the mod.

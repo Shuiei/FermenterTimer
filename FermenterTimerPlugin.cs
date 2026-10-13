@@ -15,7 +15,7 @@ public sealed class FermenterTimerPlugin : BaseUnityPlugin
 	// The id before 1.1.0, which named the settings file.
 	private const string OldGuid = "local.fermentertimer";
 
-	public const string Version = "1.1.1";
+	public const string Version = "1.1.2";
 
 	private static ConfigEntry<bool> _showSeconds;
 

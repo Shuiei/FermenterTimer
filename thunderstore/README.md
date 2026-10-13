@@ -23,3 +23,9 @@ modded.
 | Setting | Default | Meaning |
 |---|---|---|
 | `ShowSeconds` | `true` | Show seconds under an hour (`23m 41s`); off shows whole minutes (`24m`). |
+
+## Support
+
+If this mod saved you some trouble:
+
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/tieboo)
